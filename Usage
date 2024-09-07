@@ -1,0 +1,1 @@
+best.pt is the trained model using which you can use the posture corrector in the yolov8.py file using your webcam.
