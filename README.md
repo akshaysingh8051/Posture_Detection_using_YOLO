@@ -1,6 +1,8 @@
 # Posture_Detection_using_YOLO
 It's a real-time detection project based on posture detection using YOLO with the help of your webcam.
 
+REFER to Usage file to use the model.
+
 I plan to make this project even better using some sort of pose detection algorithm so that it doesn't require the entire subject to be inside the camera range.
 OR even better I would like to use some sort of sensors on an ergonomic backrest that give green signal if the user is sitting correctly, that is to say that his spine/back is correctly resting on the sensor points of the chair. This will nullify the use/need of a camera for this project.
 
